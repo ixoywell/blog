@@ -19,6 +19,10 @@ tags:
 
 ## 2.Web
 
+### 2.1 前端
+
+[前端工程化的部署与测试](https://segmentfault.com/a/1190000009165899)
+
 ## 3.Node
 
 ## 4.OS
@@ -27,7 +31,11 @@ tags:
 
 ### 4.2 Windows
 
-### 4.3 MaxOS
+### 4.3 MacOS
+
+[mac快捷键](https://support.apple.com/zh-cn/HT201236)
+
+[Mac 软件下载](http://xclient.info/)
 
 ## 5.Database
 
