@@ -23,11 +23,17 @@ tags:
 
 [前端工程化的部署与测试](https://segmentfault.com/a/1190000009165899)
 
+### 2.2 工具
+
+[git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
 ## 3.Node
 
 ## 4.OS
 
 ### 4.1 Linux
+
+[Linux命令查询](http://man.linuxde.net/)
 
 ### 4.2 Windows
 
@@ -50,6 +56,9 @@ tags:
 ## 7.Design
 
 ### 7.1 颜色
+
+配色工具：
+
 
 ### 7.2 素材
 
