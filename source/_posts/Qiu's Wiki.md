@@ -27,6 +27,12 @@ tags:
 
 [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+### 2.3 规范指南
+
+[Microsoft-API设计指南](http://t.cn/RtZp1wx)
+
+[Google 网络API的通用设计指南](https://cloud.google.com/apis/design/)
+
 ## 3.Node
 
 ## 4.OS
