@@ -25,11 +25,13 @@ var moment = require('moment');
 找了相关资料,有三种方式:
 
 1.渲染参数传入moment,比如:
+```
 res.render("foo.ejs", { moment: require("moment"), date: date });
-
+```
 模板格式:
+```
 <%= moment(date).formate('YYYY-MM-DD HH:mm:ss') %>
-
+```
 这种方法问题: 只要有日期格式的页面,都要导入moment,并传moment,页面多了,这样做很麻烦,并且也不友好。
 
 

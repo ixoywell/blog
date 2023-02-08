@@ -1,6 +1,8 @@
 ---
 title: 关于自己的wiki
 date: 2016-2-23 11:05:43
+categories:
+- 管理
 tags:
 - wiki
 ---
