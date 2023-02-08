@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>丘尘子</title>
+  
+  <subtitle>零落成泥碾作尘，只有香如故</subtitle>
+  <link href="https://ixoywell.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ixoywell.github.io/"/>
+  <updated>2023-02-08T14:51:13.343Z</updated>
+  <id>https://ixoywell.github.io/</id>
+  
+  <author>
+    <name>O(∩_∩)O我吖~</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo基本命令</title>
+    <link href="https://ixoywell.github.io/2023/02/08/Hexo%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
+    <id>https://ixoywell.github.io/2023/02/08/Hexo%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</id>
+    <published>2023-02-08T14:51:13.343Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/categorie/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ixoywell.github.io/2023/02/08/hello-world/"/>
+    <id>https://ixoywell.github.io/2023/02/08/hello-world/</id>
+    <published>2023-02-08T14:51:13.343Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/categorie/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于ejs模板显示日期格式化问题</title>
+    <link href="https://ixoywell.github.io/2017/05/28/ejs%E6%A8%A1%E6%9D%BF%E6%98%BE%E7%A4%BA%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E9%97%AE%E9%A2%98/"/>
+    <id>https://ixoywell.github.io/2017/05/28/ejs%E6%A8%A1%E6%9D%BF%E6%98%BE%E7%A4%BA%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E9%97%AE%E9%A2%98/</id>
+    <published>2017-05-28T06:56:58.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于ejs模板显示日期格式化问题"><a href="#关于ejs模板显示日期格式化问题" class="headerlink" title="关于ejs模板显示日期格式化问题"></a>关于ejs模板显示日期格式化问题</h1><p>从数据库提取日期,会直接显示为:Sun May 28 2017 16:17:34 GMT+0800 (CST),这样显示对应国内用户非常不友好。得要对日期进行格式化,<br>但有个问题就是,如果在渲染模板前处理,要每次查询完的就要提取日期然后再进行格式化再赋值回去,这样会显得很麻烦,所以格式化日期得要在ejs的模板渲染时处理</p><p>这里时间格式化用的是moment,先加载</p><p>var moment &#x3D; require(‘moment’);</p><p>找了相关资料,有三种方式:</p><p>1.渲染参数传入moment,比如:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">res.render(&quot;foo.ejs&quot;, &#123; moment: require(&quot;moment&quot;), date: date &#125;);</span><br></pre></td></tr></table></figure><p>模板格式:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;%= moment(date).formate(&#x27;YYYY-MM-DD HH:mm:ss&#x27;) %&gt;</span><br></pre></td></tr></table></figure><p>这种方法问题: 只要有日期格式的页面,都要导入moment,并传moment,页面多了,这样做很麻烦,并且也不友好。</p><p>2.通过ejs的filter方法(过滤器)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">var moment = require(&#x27;moment&#x27;);</span><br><span class="line">var ejs = require(&#x27;ejs&#x27;);</span><br><span class="line">ejs.filters.dateformat = function(obj, format) &#123;</span><br><span class="line">    return moment(obj).format(&#x27;YYYY-MM-DD HH:mm:ss&#x27;);</span><br><span class="line"></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><p>ejs代码：</p><p><code>&lt;%=: m.getShowDate | dateformat %&gt;</code></p><p>3.通过express的(app.locals)[<a href="https://cnodejs.org/topic/5791794a4cddcb43261466cb]%E8%AE%BE%E5%AE%9A%E4%B8%80%E4%B8%AA%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95,%E8%B4%AF%E5%BD%BB%E6%95%B4%E4%B8%AA%E7%A8%8B%E5%BA%8F%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F">https://cnodejs.org/topic/5791794a4cddcb43261466cb]设定一个日期格式化方法,贯彻整个程序生命周期</a>,<br>如果是某个请求可以使用res.locals</p><p>utils.js</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">exports.dateFormat = function (date) &#123;</span><br><span class="line">  return moment(date).format(&#x27;YYYY年MM月DD日hh:mm:ss dddd&#x27;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>app.js</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">var app = require(&#x27;express&#x27;);</span><br><span class="line">var utils = require(&#x27;./utils&#x27;);</span><br><span class="line">app.locals.dateFormat = utils.dateFormat;</span><br></pre></td></tr></table></figure><p>ejs代码：</p><p><code>&lt;%= dateFormat(getShowDate) %&gt;</code></p><p>这里推荐3种方法,它只需要开始设置一次就可以,程序就可以任意一处引用。</p><p><a href="https://cnodejs.org/topic/53a3f8fbc3ee0b58204cc72a">参考</a></p>]]></content>
+    
+    
+    <summary type="html">关于ejs模板显示日期格式化问题</summary>
+    
+    
+    
+    <category term="目录" scheme="https://ixoywell.github.io/categorie/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5S管理</title>
+    <link href="https://ixoywell.github.io/2017/03/22/5S%E7%AE%A1%E7%90%86/"/>
+    <id>https://ixoywell.github.io/2017/03/22/5S%E7%AE%A1%E7%90%86/</id>
+    <published>2017-03-22T07:39:42.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="5S管理"><a href="#5S管理" class="headerlink" title="5S管理"></a>5S管理</h3><p>今天听<a href="http://www.duobei.com/">多呗</a>的时候听个人管理的视频，提到了5S管理。</p><p>这让我想起了大学时，一次暑假去工厂打工的经历，当时厂里每天快要下班的半个钟头的时候，就准备打扫卫生，收拾东西。当时厂里的管理也就运用到了5S管理。每天下班都要整理。</p><p>这渐渐对我现在工作的影响，每天下班都会把自己工作的桌面收拾的干净。那样第二天上班的时候，过来的时候都是看到的都是整洁的。</p><p>下面说说关于(5S管理)[<a href="https://zh.wikipedia.org/wiki/5S_(%E7%AE%A1%E7%90%86)]">https://zh.wikipedia.org/wiki/5S_(%E7%AE%A1%E7%90%86)]</a></p><h4 id="5S的定義"><a href="#5S的定義" class="headerlink" title="5S的定義"></a>5S的定義</h4><p>5S是指：（汉字、片假名、日语读音、英文）</p><pre><code>1.整理、せいり、Seiri、Sort2.整顿、せいとん、Seiton、Set In Order / Straighten3.清扫、せいそう、Seisou、Shine / Clean4.清洁、せいけつ、Seiketsu、Standardize5.素养、しつけ、Shitsuke、Sustain</code></pre><p>所谓5S，是指对生产现场各生产要素（主要是物的要素）所处状态不断进行整理、整顿、清洁、清扫和提高素养的活动。由于整理（Seiri）、整顿（Seiton）、清扫（Seiso）、清洁（Seiketsu）和教养（Shitsuke）这五个词日语中罗马拼音的第一个字母都是“S”，所以简称5S。</p><p>5S管理来源于日本，指的是在生产现场中对人员、机器、材料、方法等生产要素进行有效管理。是日式企业常见的管理方式。一般用于物流管理、仓存管理、生产管理、电脑档案、数据库和个人物件分类等。</p><h5 id="整理（Seiri）"><a href="#整理（Seiri）" class="headerlink" title="整理（Seiri）"></a>整理（Seiri）</h5><p>整理是彻底把需要与不需要的人、事、物分开，再将不需要的人、事、物加以处理。需对“留之无用，弃之可惜”的观念予以突破，必须挑战“好不容易才做出来的”、“丢了好浪费”、“可能以后还有机会用到”等传统观念。</p><p>整理是改善生产现场的第一步。其要点是对生产现场摆放和停滞的各种物品进行分类；其次，对于现场不需要的物品，诸如用剩的材料、多馀的半成品、切下的料头、切屑、垃圾、废品、多馀的工具、报废的设备、工人个人生活用品等，要坚决清理出现场。整理的目的是：改善和增加作业面积：现场无杂物，行道通畅，提高工作效率；消除管理上的混放、混料等差错事故；有利于减少库存，节约资金。而没做整理的话便会有下列各种浪费产生。<br>　　1.空间的浪费。<br>　　2.棚架、橱柜使用上的浪费。<br>　　3.部品或製品变旧而致无法使用的浪费。<br>　　4.堆置场所狭窄，物品四处搬动在移动上的浪费。<br>　　5.对不要的东西也要加以管理，在管理上的浪费。<br>　　6.在库管理或上下棚架费力，在精力上的浪费。</p><h5 id="整顿（Seiton）"><a href="#整顿（Seiton）" class="headerlink" title="整顿（Seiton）"></a>整顿（Seiton）</h5><p>整顿是把需要的人、事、物加以定量和定位，对生产现场需要留下的物品进行科学合理地佈置和摆放，以便在最快速的情况下取得所要之物，在最简洁有效的规章、制度、流程下完成事务。简言之，整顿就是人和物放置方法的标准化。整顿的关键是要做到定位、定品、定量。抓住了上述三个要点，就可以製作看板，做到目视管理，从而提炼出适合本企业的物品的放置方法，进而使该方法标准化。</p><p>生产现场物品的合理摆放使得工作场所一目了然，创造整齐的工作环境有利于提高工作效率，提高产品品质，保障生产安全。对这项工作有专门的研究，又被称为定置管理，或者被称为工作地合理佈置。</p><p>因为没有做整顿而发生的浪费如下：<br>　　1.找寻时间上的浪费。<br>　　2.工程停止等待的浪费。<br>　　3.认为没有了而过量购买的浪费。<br>　　4.计画变更而发生的浪费。<br>　　5.交期延迟而造成的浪费。</p><h5 id="清扫（Seiso）"><a href="#清扫（Seiso）" class="headerlink" title="清扫（Seiso）"></a>清扫（Seiso）</h5><p>清扫是把工作场所打扫乾淨，对出现异常的设备立刻进行修理，使之恢复正常。清扫过程是根据整理、整顿的结果，将不需要的部分清除掉，或者标示出来放在仓库之中。清扫活动的重点是必须按照企业具体情况决定清扫物件，清扫人员，清扫方法，准备清扫器具，实施清扫的步骤，方能真正起到效果。</p><p>现场在生产过程中会产生灰尘、油污、铁屑、垃圾等，从而使现场变得葬乱。葬乱会使设备精度丧失，故障多发，从而影响产品品质，使安全事故防不胜防；葬乱的现场更会影响人们的工作情绪。因此，必须通过清扫活动来清除那些杂物，创建一个明快、舒畅的工作环境，以保证安全、优质、高效率地工作。</p><p>清扫活动应遵循下列原则：<br>　　1.自己使用的物品，如设备、工具等，要自己清扫，而不要依赖他人，不增加专门的清扫<br>　　　 工。<br>　　2.对设备的清扫要著眼于对设备的维护保养，清扫设备要同设备的点检和保养结合起来。<br>　　3.清扫的目的是为了改善，当清扫过程中发现有油水洩露等异常状况发生时，必须查明原<br>　　　 因，并採取措施加以排除，不能听之任之。</p><h5 id="清洁（Seiketsu）"><a href="#清洁（Seiketsu）" class="headerlink" title="清洁（Seiketsu）"></a>清洁（Seiketsu）</h5><p>清洁是在整理、整顿、清扫之后，认真维护、保持完善和最佳状态。在产品的生产过程中，永远会伴随著没用的物品的产生，这就需要不断加以区分，随时将它清除，这就是清洁的目的。</p><p>清洁并不是单纯从字面上进行理解，它是对前三项活动的坚持和深入，从而消除产生安全事故的根源，创造一个良好的工作环境，使员工能愉快地工作。这对企业提高生产效率，改善整体的绩效有很大帮助。清洁活动实施时，需要秉持三个观念：<br>　　1.只有在“清洁的工作场所才能生产出高效率、高品质的产品”。<br>　　2.清洁是一种用心的行动，千万不要只在表面上下功夫。<br>　　3.清洁是一种随时随地的工作，而不是上下班前后的工作。<br>清洁活动的要点则是：坚持“3不要”的原则——即不要放置不用的东西，不要弄乱，不要弄葬；不仅物品需要清洁，现场工人同样需要清洁，工人不仅要做到形体上的清洁，而且要做到精神上的清洁。</p><h5 id="教养（Shitsuke）"><a href="#教养（Shitsuke）" class="headerlink" title="教养（Shitsuke）"></a>教养（Shitsuke）</h5><p>教养是指养成良好的工作习惯，遵守纪律，努力提高人员的素质，养成严格遵守规章制度的习惯和作风，营造团队精神。这是5S活动的核心。没有人员素质的提高，各项活动就不能顺利开展，也不能持续下去。</p><p>因此，实施5S实务，要始终著眼于提高人的素质。</p><p>最后到达素养的层面，可以说明这种自外向内的提高。确实是一种不错的的管理方式。你也可以试一试。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;5S管理&quot;&gt;&lt;a href=&quot;#5S管理&quot; class=&quot;headerlink&quot; title=&quot;5S管理&quot;&gt;&lt;/a&gt;5S管理&lt;/h3&gt;&lt;p&gt;今天听&lt;a href=&quot;http://www.duobei.com/&quot;&gt;多呗&lt;/a&gt;的时候听个人管理的视频，提到了5S管理。</summary>
+      
+    
+    
+    
+    <category term="管理" scheme="https://ixoywell.github.io/categorie/%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="企业管理" scheme="https://ixoywell.github.io/tags/%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Qiu&#39;s Wiki</title>
+    <link href="https://ixoywell.github.io/2017/03/15/Qiu&#39;s%20Wiki/"/>
+    <id>https://ixoywell.github.io/2017/03/15/Qiu&#39;s%20Wiki/</id>
+    <published>2017-03-15T08:19:57.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Qiu’s-Wiki"><a href="#Qiu’s-Wiki" class="headerlink" title="Qiu’s Wiki"></a>Qiu’s Wiki</h1><p>这个文档记录我的技术相关的知识</p><h2 id="1-Programming"><a href="#1-Programming" class="headerlink" title="1.Programming"></a>1.Programming</h2><h3 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h3><h2 id="2-Web"><a href="#2-Web" class="headerlink" title="2.Web"></a>2.Web</h2><h3 id="2-1-前端"><a href="#2-1-前端" class="headerlink" title="2.1 前端"></a>2.1 前端</h3><p><a href="https://segmentfault.com/a/1190000009165899">前端工程化的部署与测试</a></p><h3 id="2-2-工具"><a href="#2-2-工具" class="headerlink" title="2.2 工具"></a>2.2 工具</h3><p><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">git教程</a></p><h3 id="2-3-规范指南"><a href="#2-3-规范指南" class="headerlink" title="2.3 规范指南"></a>2.3 规范指南</h3><p><a href="http://t.cn/RtZp1wx">Microsoft-API设计指南</a></p><p><a href="https://cloud.google.com/apis/design/">Google 网络API的通用设计指南</a></p><h2 id="3-Node"><a href="#3-Node" class="headerlink" title="3.Node"></a>3.Node</h2><h2 id="4-OS"><a href="#4-OS" class="headerlink" title="4.OS"></a>4.OS</h2><h3 id="4-1-Linux"><a href="#4-1-Linux" class="headerlink" title="4.1 Linux"></a>4.1 Linux</h3><p><a href="http://man.linuxde.net/">Linux命令查询</a></p><h3 id="4-2-Windows"><a href="#4-2-Windows" class="headerlink" title="4.2 Windows"></a>4.2 Windows</h3><h3 id="4-3-MacOS"><a href="#4-3-MacOS" class="headerlink" title="4.3 MacOS"></a>4.3 MacOS</h3><p><a href="https://support.apple.com/zh-cn/HT201236">mac快捷键</a></p><p><a href="http://xclient.info/">Mac 软件下载</a></p><h2 id="5-Database"><a href="#5-Database" class="headerlink" title="5.Database"></a>5.Database</h2><h3 id="5-1-MySQL"><a href="#5-1-MySQL" class="headerlink" title="5.1 MySQL"></a>5.1 MySQL</h3><h3 id="5-2-MongoDB"><a href="#5-2-MongoDB" class="headerlink" title="5.2 MongoDB"></a>5.2 MongoDB</h3><p><a href="http://blog.csdn.net/piaocoder/article/details/52384756">MoogoDB 基础命令</a></p><h2 id="6-Algorithm"><a href="#6-Algorithm" class="headerlink" title="6.Algorithm"></a>6.Algorithm</h2><h2 id="7-Design"><a href="#7-Design" class="headerlink" title="7.Design"></a>7.Design</h2><h3 id="7-1-颜色"><a href="#7-1-颜色" class="headerlink" title="7.1 颜色"></a>7.1 颜色</h3><p>配色工具：</p><h3 id="7-2-素材"><a href="#7-2-素材" class="headerlink" title="7.2 素材"></a>7.2 素材</h3><h3 id="7-3-设计方法"><a href="#7-3-设计方法" class="headerlink" title="7.3 设计方法"></a>7.3 设计方法</h3><h3 id="7-4-设计工具"><a href="#7-4-设计工具" class="headerlink" title="7.4 设计工具"></a>7.4 设计工具</h3><h2 id="8-Visualization"><a href="#8-Visualization" class="headerlink" title="8.Visualization"></a>8.Visualization</h2><h3 id="8-1-Data-Visualization"><a href="#8-1-Data-Visualization" class="headerlink" title="8.1 Data Visualization"></a>8.1 Data Visualization</h3><h2 id="9-Machine-Learning"><a href="#9-Machine-Learning" class="headerlink" title="9.Machine Learning"></a>9.Machine Learning</h2><h3 id="9-1-Flow"><a href="#9-1-Flow" class="headerlink" title="9.1 Flow"></a>9.1 Flow</h3><h2 id="10-Reading"><a href="#10-Reading" class="headerlink" title="10.Reading"></a>10.Reading</h2><h3 id="10-1-Books"><a href="#10-1-Books" class="headerlink" title="10.1 Books"></a>10.1 Books</h3><p>2015年书单</p><pre><code>1.《视觉繁美 : 信息可视化方法与案例解析》2.《可视化数据》3.《理财·投资》4.《如何移动富士山？》5.《Processing语言权威指南》6.《Web信息架构 : 设计大型网站》7.《怪诞心理学》8.《Web应用安全权威指南》</code></pre><p>2016年书单</p><pre><code>1.《基本乐理》2.《设计的语言》3.《新媒体互动艺术 : Processing的应用》4.《Node.js高级编程》5.《腾讯网UED体验设计之旅》6.《JavaScript专家编程》7.《设计网事 : 互联网产品设计实践》8.《扩展jQuery》9.《编写可测试的JavaScript代码》10.《JavaScript快速全栈开发》11.《集体智慧编程》12.《生活的艺术》13.《在路上，爱上从未有过的自己》14.《云南记忆》15.《住宅精细化设计》16.《设计原本 : 计算机科学巨匠Frederick P. Brooks的反思》17.《商业宣传品创意裁切及折页设计》18.《永无止境 : Google传》19.《设计网事 : 互联网产品设计实践》20.《JavaScript专家编程》21.《腾讯网UED体验设计之旅》22.《爸爸爱喜禾》</code></pre><p>2017年书单</p><pre><code>0.《人类简史：从动物到上帝》1.《DT已来 : 为了无法计算的价值》2.《未来简史》3.《孔子的幽默》4.《投行笔记》5.《商业的本质》6.《干净的数据》7.《JavaScript忍者秘籍》</code></pre><h3 id="10-2-Blogs"><a href="#10-2-Blogs" class="headerlink" title="10.2 Blogs"></a>10.2 Blogs</h3><h2 id="11-Happy"><a href="#11-Happy" class="headerlink" title="11.Happy"></a>11.Happy</h2><p>happy coding, happy life!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Qiu’s-Wiki&quot;&gt;&lt;a href=&quot;#Qiu’s-Wiki&quot; class=&quot;headerlink&quot; title=&quot;Qiu’s Wiki&quot;&gt;&lt;/a&gt;Qiu’s Wiki&lt;/h1&gt;&lt;p&gt;这个文档记录我的技术相关的知识&lt;/p&gt;
+&lt;h2 id=&quot;1-Programm</summary>
+      
+    
+    
+    
+    
+    <category term="wiki" scheme="https://ixoywell.github.io/tags/wiki/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>漂流大陆</title>
+    <link href="https://ixoywell.github.io/2016/11/29/%E6%BC%82%E6%B5%81%E5%A4%A7%E9%99%86/"/>
+    <id>https://ixoywell.github.io/2016/11/29/%E6%BC%82%E6%B5%81%E5%A4%A7%E9%99%86/</id>
+    <published>2016-11-29T04:56:58.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知道从什么时候开始，我一直希望走遍所有的世界，对，不是只有现在所在的世界，还有很多很多的世界。<br>那些世界，应该很好玩，很惊险；那些世界，充满了各种各样的事物，那些你从来没见过的东西，每一件都让你觉得很惊奇，没看到之前，你永远都想象不出来；那些世界，有自己的自然规律，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;不知道从什么时候开始，我一直希望走遍所有的世界，对，不是只有现在所在的世界，还有很多很多的世界。&lt;br&gt;那些世界，应该很好玩，很惊险；那些世界，充满了各种各样的事物，那些你从来没见过的东西，每一件都让你觉得很惊奇，没看到之前，你永远都想象不出来；那些世界，有自己的自然规律，</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://ixoywell.github.io/categorie/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="故事" scheme="https://ixoywell.github.io/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云南之旅</title>
+    <link href="https://ixoywell.github.io/2016/08/25/%E4%BA%91%E5%8D%97%E4%B9%8B%E6%97%85/"/>
+    <id>https://ixoywell.github.io/2016/08/25/%E4%BA%91%E5%8D%97%E4%B9%8B%E6%97%85/</id>
+    <published>2016-08-25T08:19:57.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/avatar/arean.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/avatar/arean.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://ixoywell.github.io/categorie/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="故事" scheme="https://ixoywell.github.io/tags/%E6%95%85%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微品金融网站重构工作总结</title>
+    <link href="https://ixoywell.github.io/2016/06/06/%E5%BE%AE%E5%93%81%E9%87%91%E8%9E%8D%E7%BD%91%E7%AB%99%E9%87%8D%E6%9E%84%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/"/>
+    <id>https://ixoywell.github.io/2016/06/06/%E5%BE%AE%E5%93%81%E9%87%91%E8%9E%8D%E7%BD%91%E7%AB%99%E9%87%8D%E6%9E%84%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</id>
+    <published>2016-06-06T01:39:42.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/categorie/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="重构" scheme="https://ixoywell.github.io/tags/%E9%87%8D%E6%9E%84/"/>
+    
+    <category term="总结" scheme="https://ixoywell.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GIT-SSH配置和使用</title>
+    <link href="https://ixoywell.github.io/2016/05/19/git-ssh%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/"/>
+    <id>https://ixoywell.github.io/2016/05/19/git-ssh%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/</id>
+    <published>2016-05-19T06:56:58.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="git-ssh配置和使用"><a href="#git-ssh配置和使用" class="headerlink" title="git-ssh配置和使用"></a>git-ssh配置和使用</h2><h3 id="1、设置Git的user-name和email：-如果是第一次的话"><a href="#1、设置Git的user-name和email：-如果是第一次的话" class="headerlink" title="1、设置Git的user name和email：(如果是第一次的话)"></a>1、设置Git的user name和email：(如果是第一次的话)</h3><p>$ <code>git config --global user.name &quot;humingx&quot;</code></p><p>$ <code>git config --global user.email &quot;humingx@yeah.net&quot;</code></p><h3 id="2、生成密钥"><a href="#2、生成密钥" class="headerlink" title="2、生成密钥"></a>2、生成密钥</h3><p>$ ssh-keygen -t rsa -C “<a href="mailto:&#x68;&#117;&#109;&#x69;&#110;&#x67;&#x78;&#x40;&#x79;&#x65;&#97;&#104;&#46;&#110;&#101;&#116;">&#x68;&#117;&#109;&#x69;&#110;&#x67;&#x78;&#x40;&#x79;&#x65;&#97;&#104;&#46;&#110;&#101;&#116;</a>“</p><p>连续3个回车。如果不需要密码的话。(第一个回车是id名，多个密钥时，需改成不同id)</p><p>最后得到了两个文件：id_rsa和id_rsa.pub。</p><h3 id="3、登陆Github-添加ssh-。"><a href="#3、登陆Github-添加ssh-。" class="headerlink" title="3、登陆Github, 添加ssh 。"></a>3、登陆Github, 添加ssh 。</h3><p>把id_rsa.pub文件里的内容复制到github设置的ssh-key当中。</p><h3 id="4、测试："><a href="#4、测试：" class="headerlink" title="4、测试："></a>4、测试：</h3><p>$ <code>ssh -T git@github.com</code></p><p>成功时：</p><p><code>The authenticity of host &#39;github.com (207.97.227.239)&#39; can&#39;t be established.     RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.     Are you sure you want to continue connecting (yes/no)?</code></p><p>选择 yes:</p><p><code>Hi humingx! You&#39;ve successfully authenticated, but GitHub does not provide shell access.</code></p><blockquote><p>当<code>Permission denied (publickey).</code>或者<code>git pull origin master</code>操作时，报错：<br>Permission denied (publickey).<br>fatal: Could not read from remote repository.<br>意思是：权限被拒绝（公钥）。无法读取远程库。<br>此时需要配置ssh-agent:</p></blockquote><h3 id="5、添加密钥到ssh-agent"><a href="#5、添加密钥到ssh-agent" class="headerlink" title="5、添加密钥到ssh-agent"></a>5、添加密钥到ssh-agent</h3><p>确保 ssh-agent 是可用的。</p><p>ssh-agent是一种控制用来保存公钥身份验证所使用的私钥的程序，其实ssh-agent就是一个密钥管理器，运行ssh-agent以后，使用ssh-add将私钥交给ssh-agent保管，其他程序需要身份验证的时候可以将验证申请交给ssh-agent来完成整个认证过程。</p><p>$ <code>eval &quot;$(ssh-agent -s)&quot;</code></p><blockquote><p>Agent pid 59566</p></blockquote><p>添加生成的 SSH key 到 ssh-agent。</p><p>$ <code>ssh-add ~/.ssh/id_rsa</code> #不同的密钥对应不同id</p>]]></content>
+    
+    
+    <summary type="html">GIT-SSH配置和使用</summary>
+    
+    
+    
+    <category term="目录" scheme="https://ixoywell.github.io/categorie/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法说明</title>
+    <link href="https://ixoywell.github.io/2016/05/19/makedown%E8%AF%AD%E6%B3%95%E8%AF%B4%E6%98%8E/"/>
+    <id>https://ixoywell.github.io/2016/05/19/makedown%E8%AF%AD%E6%B3%95%E8%AF%B4%E6%98%8E/</id>
+    <published>2016-05-19T06:56:58.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的语法代替排版，而不像一般我们用的字处理软件 Word 或 Pages 有大量的排版、字体设置。它使我们专心于码字，用「标记」语法，来代替常见的排版格式。</p><h2 id="Markdown语法说明"><a href="#Markdown语法说明" class="headerlink" title="Markdown语法说明"></a>Markdown语法说明</h2><h3 id="使用-Markdown-的优点"><a href="#使用-Markdown-的优点" class="headerlink" title="使用 Markdown 的优点"></a>使用 Markdown 的优点</h3><pre><code>1.专注你的文字内容而不是排版样式。2.轻松的导出 HTML、PDF 和本身的 .md 文件。3.纯文本内容，兼容所有的文本编辑器与字处理软件。4.可读，直观。适合所有人的写作语言。</code></pre><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h2><h3 id="粗体、斜体"><a href="#粗体、斜体" class="headerlink" title="粗体、斜体"></a>粗体、斜体</h3><p><strong>粗体</strong><br><strong>粗体</strong><br><em>斜体</em><br><em>斜体</em></p><h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h3><p>删除线的使用，只要用~~将需要删除的文本包围起来即可。</p><p><del>Mistaken text.</del></p><h3 id="代码块高亮"><a href="#代码块高亮" class="headerlink" title="代码块高亮"></a>代码块高亮</h3><p>使用`&#96;&#96;（三个反引号）包围代码块即可，里面的代码块不需要任何缩进。这种方式也称“围栏式代码块”，如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的语法代替排版，而不像一般我们用的字处理软件 Word 或 Pages 有大量的排版、字体设置。它使我们专心于码字，用「标记」语法，来代替常见的排版格式。&lt;/p&gt;
+&lt;h2 id=&quot;Markdown语法说明&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://ixoywell.github.io/categorie/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="生活" scheme="https://ixoywell.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一天，干点啥!</title>
+    <link href="https://ixoywell.github.io/2016/05/19/sayHelloWorld/"/>
+    <id>https://ixoywell.github.io/2016/05/19/sayHelloWorld/</id>
+    <published>2016-05-19T06:56:58.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一天，博客，总是要写点什么的吧。<br>不能第一天就对人家冷。这样不好，再加上我又不是这样的人。对吧，好人…</p><h3 id="我需要做点事"><a href="#我需要做点事" class="headerlink" title="我需要做点事"></a>我需要做点事</h3><h4 id="啥事都可以，觉得充足，踏实，快乐就好。"><a href="#啥事都可以，觉得充足，踏实，快乐就好。" class="headerlink" title="啥事都可以，觉得充足，踏实，快乐就好。"></a>啥事都可以，觉得充足，踏实，快乐就好。</h4><p>首先写个Markdown的语法说明，今后写的md的时候好查阅，详情请查看<a href="http://blog.inir.cn/markdown">Markdown语法说明</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">第一天，总要干点啥吧。先写个Markdown的说明，之后要是忘了，也可以来查一查，对吧！</summary>
+    
+    
+    
+    <category term="目录" scheme="https://ixoywell.github.io/categorie/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+    <category term="生活" scheme="https://ixoywell.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于自己的wiki</title>
+    <link href="https://ixoywell.github.io/2016/02/23/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84Wiki/"/>
+    <id>https://ixoywell.github.io/2016/02/23/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84Wiki/</id>
+    <published>2016-02-23T03:05:43.000Z</published>
+    <updated>2023-02-08T14:51:13.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>前些天不小心看到了<a href="http://geekplux.com/wiki/#org5c96239">GeekPlux’s Wiki</a>,( ⊙o⊙ )哇，为我眼前一亮。给自己整理了一份属于自己的wiki.对自己的知识、技术、生活有一个梳理的认识。</p><p>以前写过的文档，有的在博客，有的在有道云笔记，有的在OneNote.而且整理的挺乱的，有没怎么分类。有时遇到问题，查阅一下都不在放在哪个平台。</p><p>所以也打算也整理出一个自己的wiki,同时也梳理一下自己的知识。</p><p>内容包括：</p><pre><code>1.Programming2.Web3.Node4.OS5.Database6.Algorithm7.Design8.Visualization9.Machine Learning10.Reading11.Happy</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前些天不小心看到了&lt;a href=&quot;http://geekplux.com/wiki/#org5c96239&quot;&gt;GeekPlux’s Wiki&lt;/a&gt;,( ⊙o⊙ )哇，为我眼前一亮。给自己整理了一份属于自己的wiki.对自己的知识、技术、生活有一个梳理的认识。&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="管理" scheme="https://ixoywell.github.io/categorie/%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="wiki" scheme="https://ixoywell.github.io/tags/wiki/"/>
+    
+  </entry>
+  
+</feed>
