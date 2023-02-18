@@ -102,5 +102,5 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ixoywell/ixoywell.github.io.git
+  repo: https://github.com/ixoywell/ixoywell.github.io.git
   branch: master
